@@ -7,7 +7,8 @@ Command to generate Android bundle:
 yarn react-native bundle --platform android --dev false --entry-file index.js --bundle-output index.android.bundle
 ```
 
-![preview](image.png)
+<img src="https://github.com/gbiktx/rn-demo-app/blob/main/image.png" width="200" height="400">
+
 
 --------------------------
 
